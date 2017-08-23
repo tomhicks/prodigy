@@ -1,6 +1,6 @@
 {
   "name": "propify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make React PropType definitions easier",
   "main": "index.js",
   "scripts": {
