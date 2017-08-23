@@ -27,7 +27,7 @@ Component.propTypes = {
 ```
 
 ```javascript
-import {propify, maybe) from `propify`
+import {propify, maybe} from `propify`
 
 Component.propTypes = propify({
   requiredNumber: Number
