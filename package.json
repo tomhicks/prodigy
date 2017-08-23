@@ -2,7 +2,7 @@
   "name": "propify",
   "version": "1.0.1",
   "description": "Make React PropType definitions easier",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha --opts test/mocha-all.opts"
   },
