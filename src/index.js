@@ -1,4 +1,4 @@
-import PropTypes from "prop-types"
+const PropTypes = require("prop-types")
 
 const secret = "my_secret"
 
