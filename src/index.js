@@ -68,3 +68,4 @@ function optional(checker) {
 exports.propify = propify
 exports.optional = optional
 exports.maybe = optional
+exports.PropTypes = PropTypes
